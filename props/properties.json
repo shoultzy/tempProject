@@ -1,0 +1,7 @@
+{
+    "consumerKey": "quRyfrL1e9YJvLjLIEAJ8OQd2",
+    "consumerSecret": "oZHFSLcI3SUBw0eObUWeLtaCSOiSesKLDdoGu5Ix4UWrl9kjBb",
+    "accessToken": "169109692-PUCjrfB3B7qsGmpjU3Xk9pMt9i9VH9jkY28iE0Tg",
+    "accessTokenSecret": "1YRBijsRJtty7EHNJHJevidSuNboNlUegFljwKVqJvolz",
+    "callBackUrl": "http://localhost:3000/oauth/callback"
+}

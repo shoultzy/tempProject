@@ -1,0 +1,30 @@
+{
+  "name": "static-heroku-node",
+  "version": "0.0.0",
+  "description": "social webapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "foreman start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shoultzy/mmo_socialwarfare_webapp.git"
+  },
+  "author": "mshoult",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^3.4.8",
+    "logfmt": "^1.1.2",
+    "mongodb": "^1.4.7",
+    "oauth": "*",
+    "qs": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/shoultzy/mmo_socialwarfare_webapp/issues"
+  },
+  "homepage": "https://github.com/shoultzy/mmo_socialwarfare_webapp"
+}

@@ -1,0 +1,11 @@
+{
+   "player_walk_0"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":  0, "w": 384, "h": 64},
+   "player_walk_1"  : {"tilew": 64, "tileh": 64, "sx":0, "sy": 64, "w": 384, "h": 64},
+   "player_walk_2"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":128, "w": 384, "h": 64},
+   "player_walk_3"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":192, "w": 384, "h": 64},
+   "player_walk_4"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":256, "w": 384, "h": 64},
+   "player_walk_5"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":320, "w": 384, "h": 64},
+   "player_walk_6"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":384, "w": 384, "h": 64},
+   "player_walk_7"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":448, "w": 384, "h": 64},
+   "player_walk_8"  : {"tilew": 64, "tileh": 64, "sx":0, "sy":512, "w": 384, "h": 64}
+}
